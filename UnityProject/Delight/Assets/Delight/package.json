@@ -1,0 +1,12 @@
+{
+  "name": "com.salepaun.delight",
+  "displayName": "Delight",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Custom fork of the Delight UI framework.",
+  "author": {
+    "name": "salepaun"
+    "email": "salepaun@gmail.com",
+    "url": ""
+  }
+}
